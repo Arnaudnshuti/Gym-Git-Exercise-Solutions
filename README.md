@@ -1,3 +1,3 @@
-#GIT EXERCISES
+# GIT EXERCISES
 
-##Bundle 1 Answers
+This is where I will be posting my terminal screenshots.
